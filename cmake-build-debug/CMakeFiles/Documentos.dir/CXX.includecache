@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/racso/Documentos/binarysearch.cpp
+binarysearch.h
+/home/racso/Documentos/binarysearch.h
+
+/home/racso/Documentos/binarysearch.h
+iostream
+-
+
+/home/racso/Documentos/main.cpp
+binarysearch.h
+/home/racso/Documentos/binarysearch.h
+chrono
+-
+vector
+-
+
